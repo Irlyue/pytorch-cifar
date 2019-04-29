@@ -8,4 +8,5 @@ CONFIG = {
     'n_devices': 1,
     'model_dir': '/tmp/cifar10',
     'n_epochs': 1,
+    'multi_gpus': False,
 }
